@@ -9,4 +9,8 @@
 - 사진을 저장하고
 - 사진을.. 사진을..
 
-![zzzz](/Uploadphp101/device-2018-05-18-233059.png)
+<img src="/Uploadphp101/device-2018-05-18-233059.png" width="50%" height="50%">
+
+
+
+
